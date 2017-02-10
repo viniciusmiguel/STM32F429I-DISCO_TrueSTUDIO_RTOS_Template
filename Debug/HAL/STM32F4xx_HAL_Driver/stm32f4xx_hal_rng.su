@@ -1,0 +1,13 @@
+stm32f4xx_hal_rng.c:123:19:HAL_RNG_Init	16	static
+stm32f4xx_hal_rng.c:162:19:HAL_RNG_DeInit	16	static
+stm32f4xx_hal_rng.c:194:13:HAL_RNG_MspInit	16	static
+stm32f4xx_hal_rng.c:209:13:HAL_RNG_MspDeInit	16	static
+stm32f4xx_hal_rng.c:248:19:HAL_RNG_GenerateRandomNumber	24	static
+stm32f4xx_hal_rng.c:302:19:HAL_RNG_GenerateRandomNumber_IT	24	static
+stm32f4xx_hal_rng.c:353:6:HAL_RNG_IRQHandler	16	static
+stm32f4xx_hal_rng.c:395:10:HAL_RNG_GetRandomNumber	16	static
+stm32f4xx_hal_rng.c:414:10:HAL_RNG_GetRandomNumber_IT	24	static
+stm32f4xx_hal_rng.c:440:10:HAL_RNG_ReadLastRandomNumber	16	static
+stm32f4xx_hal_rng.c:452:13:HAL_RNG_ReadyDataCallback	16	static
+stm32f4xx_hal_rng.c:468:13:HAL_RNG_ErrorCallback	16	static
+stm32f4xx_hal_rng.c:502:22:HAL_RNG_GetState	16	static

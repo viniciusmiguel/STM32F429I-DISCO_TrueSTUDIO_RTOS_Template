@@ -1,0 +1,13 @@
+stm32f4xx_ll_sdmmc.c:217:19:SDIO_Init	24	static
+stm32f4xx_ll_sdmmc.c:269:10:SDIO_ReadFIFO	16	static
+stm32f4xx_ll_sdmmc.c:281:19:SDIO_WriteFIFO	16	static
+stm32f4xx_ll_sdmmc.c:313:19:SDIO_PowerState_ON	16	static
+stm32f4xx_ll_sdmmc.c:326:19:SDIO_PowerState_OFF	16	static
+stm32f4xx_ll_sdmmc.c:343:10:SDIO_GetPowerState	16	static
+stm32f4xx_ll_sdmmc.c:356:19:SDIO_SendCommand	24	static
+stm32f4xx_ll_sdmmc.c:386:9:SDIO_GetCommandResponse	16	static
+stm32f4xx_ll_sdmmc.c:402:10:SDIO_GetResponse	24	static
+stm32f4xx_ll_sdmmc.c:423:19:SDIO_DataConfig	24	static
+stm32f4xx_ll_sdmmc.c:458:10:SDIO_GetDataCounter	16	static
+stm32f4xx_ll_sdmmc.c:468:10:SDIO_GetFIFOCount	16	static
+stm32f4xx_ll_sdmmc.c:482:19:SDIO_SetSDIOReadWaitMode	16	static

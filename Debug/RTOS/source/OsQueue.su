@@ -1,0 +1,11 @@
+OsKernel.h:166:22:uLipePrioSet	24	static
+OsKernel.h:186:22:uLipePrioClr	24	static
+OsQueue.c:53:20:QueueRemoveLoop	24	static
+OsQueue.c:100:20:QueueInsertLoop	24	static
+OsQueue.c:144:20:QueueDeleteLoop	32	static
+OsQueue.c:189:6:uLipeQueueInit	16	static
+OsQueue.c:232:13:uLipeQueueCreate	32	static
+OsQueue.c:278:12:uLipeQueueInsert	32	static
+OsQueue.c:380:7:uLipeQueueRemove	40	static
+OsQueue.c:483:12:uLipeQueueFlush	24	static
+OsQueue.c:517:12:uLipeQueueDelete	24	static

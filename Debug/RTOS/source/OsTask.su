@@ -1,0 +1,8 @@
+OsKernel.h:166:22:uLipePrioSet	24	static
+OsKernel.h:186:22:uLipePrioClr	24	static
+OsTask.c:47:12:uLipeTaskInit	16	static
+OsTask.c:72:12:uLipeTaskCreate	40	static
+OsTask.c:159:12:uLipeTaskDelete	24	static
+OsTask.c:199:12:uLipeTaskSuspend	24	static
+OsTask.c:226:12:uLipeTaskResume	24	static
+OsTask.c:252:12:uLipeTaskDelay	24	static

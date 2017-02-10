@@ -1,0 +1,11 @@
+OsKernel.h:166:22:uLipePrioSet	24	static
+OsKernel.c:52:6:uLipeKernelIdleTask	24	static
+OsKernel.c:124:6:uLipeTaskEntry	24	static
+OsKernel.c:155:6:uLipeKernelIrqIn	4	static
+OsKernel.c:166:6:uLipeKernelIrqOut	8	static
+OsKernel.c:214:6:uLipeKernelTaskYield	16	static
+OsKernel.c:244:6:uLipeKernelRtosTick	16	static
+OsKernel.c:288:12:uLipeKernelObjCopy	24	static
+OsKernel.c:308:12:uLipeKernelObjSet	16	static
+OsKernel.c:389:12:uLipeRtosInit	24	static
+OsKernel.c:441:12:uLipeRtosStart	8	static

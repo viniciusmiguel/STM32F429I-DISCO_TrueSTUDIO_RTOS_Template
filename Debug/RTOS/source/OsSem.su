@@ -1,0 +1,9 @@
+OsKernel.h:166:22:uLipePrioSet	24	static
+OsKernel.h:186:22:uLipePrioClr	24	static
+OsSem.c:53:20:SemPostLoop	24	static
+OsSem.c:92:20:SemDeleteLoop	24	static
+OsSem.c:129:6:uLipeSemInit	16	static
+OsSem.c:163:13:uLipeSemCreate	24	static
+OsSem.c:196:12:uLipeSemTake	24	static
+OsSem.c:264:12:uLipeSemGive	32	static
+OsSem.c:304:12:uLipeSemDelete	24	static

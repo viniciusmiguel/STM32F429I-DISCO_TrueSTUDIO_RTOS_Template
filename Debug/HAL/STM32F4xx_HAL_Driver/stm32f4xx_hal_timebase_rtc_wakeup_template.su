@@ -1,0 +1,5 @@
+stm32f4xx_hal_timebase_rtc_wakeup_template.c:120:19:HAL_InitTick	120	static
+stm32f4xx_hal_timebase_rtc_wakeup_template.c:238:6:HAL_SuspendTick	4	static
+stm32f4xx_hal_timebase_rtc_wakeup_template.c:253:6:HAL_ResumeTick	4	static
+stm32f4xx_hal_timebase_rtc_wakeup_template.c:271:6:HAL_RTCEx_WakeUpTimerEventCallback	16	static
+stm32f4xx_hal_timebase_rtc_wakeup_template.c:280:6:RTC_WKUP_IRQHandler	8	static
